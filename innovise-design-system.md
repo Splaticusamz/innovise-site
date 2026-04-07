@@ -17,18 +17,18 @@
 - **Industry:** Technology / Software Consulting
 - **Audience:** Business owners, CTOs, startup founders, and operations leaders who need custom software but may not have in-house development teams
 - **Feel:** Trustworthy, competent, approachable, pragmatic
-- **References:** The current Innovise brand uses deep greens and professional tones. Preserve the green identity but modernize everything else.
+- **References:** The Innovise logo uses coral-orange (#F47C64) on charcoal; the UI extends that hue into a full scale for surfaces and interactive states.
 
 ## 2. Color System
 
 ### Philosophy
-Deep, confident greens paired with warm off-white surfaces. The palette communicates technical authority without corporate coldness. Every color earns its place — no decoration, only function.
+Confident coral-oranges paired with warm off-white surfaces. The palette matches the logo accent and communicates technical authority without corporate coldness. Every color earns its place: no decoration, only function.
 
 ### Semantic colors
-- **brand.primary:** #0f3d2e
-- **brand.primary-hover:** #0c3125
-- **brand.primary-active:** #09251c
-- **brand.accent:** #1a6b4a
+- **brand.primary:** #c24a36
+- **brand.primary-hover:** #a63d2c
+- **brand.primary-active:** #8a3325
+- **brand.accent (logo match):** #f47c64
 
 - **feedback.success:** #1f6b45
 - **feedback.warning:** #8a5a12
@@ -36,11 +36,11 @@ Deep, confident greens paired with warm off-white surfaces. The palette communic
 - **feedback.info:** #1e4e7a
 
 ### Surfaces & text
-- **surface.page:** #f7f5f0
+- **surface.page:** #faf7f5
 - **surface.card:** #ffffff
-- **surface.inset:** #f0ece3
+- **surface.inset:** #f1eae7
 - **surface.inverse:** #111111
-- **surface.hero:** #0f3d2e
+- **surface.hero:** #c24a36
 
 - **text.primary:** #161616
 - **text.secondary:** #444444
@@ -49,16 +49,16 @@ Deep, confident greens paired with warm off-white surfaces. The palette communic
 - **text.on-inverse:** #f7f5f0
 
 ### Do
-- Use the brand green sparingly for CTAs, section accents, and key moments.
+- Use the brand coral sparingly for CTAs, section accents, and key moments; use **brand-400** (#f47c64) for accents that must match the logo exactly.
 - Keep neutrals warm, quiet, and low-chroma.
-- Prioritize contrast and legibility over decorative color variation.
-- Use the hero green background for the main hero section and key feature blocks.
+- Prioritize contrast and legibility over decorative color variation (use **brand-500+** for large areas with white text).
+- Use the hero coral background for the main hero section and key feature blocks.
 
 ### Don't
-- Do not introduce bright accent palettes or neon gradients.
+- Do not introduce unrelated bright accent palettes or neon gradients.
 - Do not rely on color alone to convey status.
 - Do not use overly cool corporate blues as dominant UI color.
-- Do not overuse the dark green — it should feel intentional, not heavy.
+- Do not overuse saturated orange: it should feel intentional, not loud.
 
 ## 3. Typography
 
@@ -81,8 +81,8 @@ Deep, confident greens paired with warm off-white surfaces. The palette communic
 | text-5xl | 65px | 1.1 | 700 | 0 |
 
 ### Rules
-- Use IBM Plex Sans for headings and interface labels — precision and authority.
-- Use Source Sans 3 for body copy — readable and approachable in long-form content.
+- Use IBM Plex Sans for headings and interface labels: precision and authority.
+- Use Source Sans 3 for body copy: readable and approachable in long-form content.
 - Use JetBrains Mono for any code snippets or technical references.
 - Favor semibold (600) for section headings, medium (500) for subheadings.
 - Keep line lengths between 60-75 characters for body text.
@@ -111,7 +111,7 @@ Deep, confident greens paired with warm off-white surfaces. The palette communic
 - **space-12:** 200px
 
 ### Rules
-- Generous whitespace between sections — let content breathe.
+- Generous whitespace between sections. Let content breathe.
 - Cards and feature blocks should have ample internal padding (space-6 minimum).
 - Hero sections get space-10 or more vertical padding.
 - Section spacing: space-9 to space-11 between major page sections.
@@ -163,7 +163,7 @@ Deep, confident greens paired with warm off-white surfaces. The palette communic
 - **scroll:** Sections fade + slide up on scroll-into-view, staggered by 100ms per element.
 
 ### Rules
-- Keep all motion purposeful — it should guide attention, not distract.
+- Keep all motion purposeful: it should guide attention, not distract.
 - Honor prefers-reduced-motion.
 - Stagger entrance animations for card grids and feature lists.
 - No motion for the sake of motion. Every animation should communicate state change.
@@ -177,14 +177,14 @@ Professional yet human. Speak like a trusted advisor, not a corporate brochure. 
 |---------|---------|---------|
 | primaryCta | Action-oriented | Let's Build Together |
 | secondaryCta | Exploratory | See How We Work |
-| empty | Friendly | Nothing here yet — let's change that. |
+| empty | Friendly | Nothing here yet. Let's change that. |
 | error | Helpful | Something went wrong. Let's try that again. |
 | success | Affirming | All set. You're good to go. |
 
 ### Tone guidelines
 - Lead with outcomes, not features ("Ship faster" not "CI/CD pipeline management")
 - Address the reader directly ("your business", "your team")
-- Keep paragraphs short — 2-3 sentences max
+- Keep paragraphs short (2-3 sentences max)
 - Use active voice exclusively
 - Numbers and specifics over vague claims
 
@@ -293,23 +293,23 @@ Clean, purposeful imagery. Favor abstract tech patterns, workspace photography w
 
 | Token | Light | Dark |
 |-------|-------|------|
-| surface.page | #f7f5f0 | #0a0a0a |
+| surface.page | #faf7f5 | #0a0a0a |
 | surface.card | #ffffff | #141414 |
-| surface.inset | #f0ece3 | #1a1a1a |
+| surface.inset | #f1eae7 | #1a1a1a |
 | surface.inverse | #111111 | #1a1a1a |
-| surface.hero | #0f3d2e | #0a2a1e |
+| surface.hero | #c24a36 | #3d1812 |
 | text.primary | #161616 | #ededed |
 | text.secondary | #444444 | #a3a3a3 |
 | text.tertiary | #6b6b6b | #737373 |
 | text.on-primary | #f7f5f0 | #ededed |
 | text.on-inverse | #f7f5f0 | #ededed |
-| brand.primary | #0f3d2e | #4b6e62 |
-| brand.accent | #1a6b4a | #2d9b6a |
+| brand.primary | #c24a36 | #9a3d2e |
+| brand.accent | #f47c64 | #e07058 |
 
 ### Rules
 - Preserve the same restrained contrast model in dark mode.
 - Avoid pure black; use softened dark neutrals.
-- Keep brand green slightly muted in dark contexts to prevent glow.
+- Keep brand coral slightly muted in dark contexts to prevent glow.
 - Test all text/background combinations for WCAG AA contrast minimum.
 
 ---
@@ -317,16 +317,16 @@ Clean, purposeful imagery. Favor abstract tech patterns, workspace photography w
 ## 11. Page Structure & Layout Guide
 
 ### Homepage sections (in order)
-1. **Navigation** — Sticky, transparent over hero, solid on scroll
-2. **Hero** — Full-width dark green bg, headline + subheadline + CTA, subtle pattern overlay
-3. **Trusted By** — Client logo strip, grayscale, subtle animation
-4. **Services Overview** — 6-card grid (2x3 desktop, 1-col mobile) with icons
-5. **How We Work** — 3-step process with connecting visual (Agile methodology)
-6. **Service Packages** — 4 cards with featured highlights
-7. **About / Team** — Split section: company story left, team cards right
-8. **Testimonials / Social Proof** — If available
-9. **CTA Section** — Full-width green bg, compelling headline + contact button
-10. **Footer** — Dark, links, social, copyright
+1. **Navigation**: Sticky, transparent over hero, solid on scroll
+2. **Hero**: Full-width brand coral bg (or photo + coral overlay), headline + subheadline + CTA, subtle pattern overlay
+3. **Trusted By**: Client logo strip, grayscale, subtle animation
+4. **Services Overview**: 6-card grid (2x3 desktop, 1-col mobile) with icons
+5. **How We Work**: 3-step process with connecting visual (Agile methodology)
+6. **Service Packages**: 4 cards with featured highlights
+7. **About / Team**: Split section: company story left, team cards right
+8. **Testimonials / Social Proof**: If available
+9. **CTA Section**: Full-width brand coral bg, compelling headline + contact button
+10. **Footer**: Dark, links, social, copyright
 
 ### Services page
 - Hero with page title

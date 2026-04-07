@@ -1,4 +1,4 @@
-# Innovise Technologies — Website Content
+# Innovise Technologies: Website Content
 ## Rewritten for Modern Rebuild
 
 ---
@@ -17,7 +17,7 @@
 **Eyebrow:** Custom Software Consulting
 
 **Headline:**
-Software that fits your business — not the other way around.
+Software that fits your business, not the other way around.
 
 **Subheadline:**
 We design, build, and maintain custom software solutions tailored to how your business actually works. From startups to Fortune 50, Innovise is the development partner that scales with you.
@@ -89,13 +89,13 @@ Research-driven design that puts your users first. We craft interfaces that are 
 
 ### Steps
 
-**Step 1 — Discover**
-We learn your business, your users, and your constraints. No assumptions, no boilerplate — just the real problems worth solving.
+**Step 1: Discover**
+We learn your business, your users, and your constraints. No assumptions, no boilerplate. Just the real problems worth solving.
 
-**Step 2 — Build**
+**Step 2: Build**
 Iterative development with continuous feedback. You see working software early and often, not just at the end.
 
-**Step 3 — Deliver & Support**
+**Step 3: Deliver & Support**
 Launch is just the beginning. We provide ongoing maintenance, monitoring, and iteration so your software keeps pace with your business.
 
 ---
@@ -112,7 +112,7 @@ Launch is just the beginning. We provide ongoing maintenance, monitoring, and it
 
 **Development Teams**
 *For projects big and small*
-Dedicated engineers embedded with your team — short-term or long-term. We become your development department or augment the one you have.
+Dedicated engineers embedded with your team, short-term or long-term. We become your development department or augment the one you have.
 **CTA:** Learn more
 
 **Custom Website Builds**
@@ -122,7 +122,7 @@ From ground-up builds to e-commerce upgrades and cloud migrations. Modern tech, 
 
 **Monthly Maintenance**
 *Software support on demand*
-Don't need a full-time developer? Our retainer model gives you access to experienced engineers whenever you need them — no overhead, no commitment.
+Don't need a full-time developer? Our retainer model gives you access to experienced engineers whenever you need them. No overhead, no commitment.
 **CTA:** Learn more
 
 **Technology & Security Audits**
@@ -142,14 +142,14 @@ Comprehensive reviews of your tech stack, security posture, and cloud spend. We 
 
 ### Team Members
 
-**Loren Anderson — President**
+**Loren Anderson: President**
 *Photo: /assets/images/team/loren-anderson.jpg*
 
-Loren has built software across a broad range of languages, frameworks, and platforms — from scrappy startups to Fortune 50 enterprises. He views software as a tool to solve business problems and tackles every challenge with a pragmatic, efficient approach.
+Loren has built software across a broad range of languages, frameworks, and platforms, from scrappy startups to Fortune 50 enterprises. He views software as a tool to solve business problems and tackles every challenge with a pragmatic, efficient approach.
 
 [LinkedIn](https://www.linkedin.com/in/loren-anderson-85953a13/)
 
-**Gary Rubens — Business Development**
+**Gary Rubens: Business Development**
 *Photo: /assets/images/team/gary-rubens.png*
 
 Gary is a serial entrepreneur, startup investor, and real estate developer based in the Seattle area. After years of working with development teams on his own technology startups, Gary brings a valuable client-first perspective to every engagement.
@@ -158,7 +158,7 @@ Gary is a serial entrepreneur, startup investor, and real estate developer based
 
 ---
 
-## 7. CTA Section (Full-width, green background)
+## 7. CTA Section (Full-width, brand coral background)
 
 **Heading:** Ready to build something great?
 
@@ -175,11 +175,11 @@ Gary is a serial entrepreneur, startup investor, and real estate developer based
 
 ### Two columns
 
-**Column 1 — Project inquiries**
+**Column 1: Project inquiries**
 Have a project that needs the right team behind it? Tell us about it and we'll get back to you within one business day.
 
-**Column 2 — Career opportunities**
-We're always looking for talented engineers who care about craft. If that's you, reach out — we'd love to hear your story.
+**Column 2: Career opportunities**
+We're always looking for talented engineers who care about craft. If that's you, reach out. We'd love to hear your story.
 
 ### Contact Form
 - Name (required)
@@ -195,25 +195,25 @@ We're always looking for talented engineers who care about craft. If that's you,
 
 ### Columns
 
-**Column 1 — Brand**
+**Column 1: Brand**
 Innovise Technologies logo
 "Custom software, built for you."
 
-**Column 2 — Navigation**
+**Column 2: Navigation**
 - Home
 - Services
 - About
 - Blog
 - Contact
 
-**Column 3 — Services**
+**Column 3: Services**
 - Custom Development
 - System Integrations
 - DevOps & Cloud
 - UX Design
 - Tech Audits
 
-**Column 4 — Connect**
+**Column 4: Connect**
 - LinkedIn (company)
 - Email: info@goinnovise.com
 
@@ -230,22 +230,22 @@ Innovise Technologies logo
 ### Detailed Services
 
 **Custom Software Development**
-Your business challenges are unique — your software should be too. We craft innovative, scalable solutions that streamline your processes, boost productivity, and drive growth. Our team works closely with you from discovery through deployment, building software that doesn't just meet your requirements but exceeds your expectations.
+Your business challenges are unique; your software should be too. We craft innovative, scalable solutions that streamline your processes, boost productivity, and drive growth. Our team works closely with you from discovery through deployment, building software that doesn't just meet your requirements but exceeds your expectations.
 
 **System Integrations**
 Your business applications should work together seamlessly. We specialize in connecting disparate systems and platforms, enabling real-time data sharing and process automation. The result: a unified technology environment that reduces complexity and lets your team focus on what matters.
 
 **Systems Design & Architecture**
-Great software starts with great architecture. We analyze your requirements and design systems that align with your goals — built for performance today and adaptable for tomorrow. From microservices to monoliths, we choose the right approach for your scale and constraints.
+Great software starts with great architecture. We analyze your requirements and design systems that align with your goals, built for performance today and adaptable for tomorrow. From microservices to monoliths, we choose the right approach for your scale and constraints.
 
 **Analytics & Business Intelligence**
 Turn your data into decisions. We build custom dashboards and reporting tools that surface the metrics that matter, from real-time operational views to predictive analytics. Stop guessing and start knowing.
 
 **DevOps & Cloud Infrastructure**
-Accelerate your delivery pipeline and improve collaboration between development and operations. We implement CI/CD workflows, containerization, infrastructure-as-code, and monitoring — so your team ships faster with fewer surprises.
+Accelerate your delivery pipeline and improve collaboration between development and operations. We implement CI/CD workflows, containerization, infrastructure-as-code, and monitoring, so your team ships faster with fewer surprises.
 
 **Staff Augmentation**
-Need to scale your team quickly? Our engineers integrate seamlessly with your existing workflows. Flexible engagement models let you scale up or down as your needs change — no long-term commitments required.
+Need to scale your team quickly? Our engineers integrate seamlessly with your existing workflows. Flexible engagement models let you scale up or down as your needs change. No long-term commitments required.
 
 **Managed Projects**
 Hand us the keys. From discovery to deployment, we manage every aspect of your project with transparent communication and proven methodologies. You focus on your business while we deliver results.
@@ -265,21 +265,21 @@ Move your on-premise systems to a modern cloud environment. Better performance, 
 Optimize your web application for search visibility and speed. Faster load times, better rankings, more customers.
 
 **UX Research & Design**
-Create intuitive, research-backed interfaces that delight your users and drive engagement. Good UX isn't a luxury — it's a competitive advantage.
+Create intuitive, research-backed interfaces that delight your users and drive engagement. Good UX isn't a luxury. It's a competitive advantage.
 
 ---
 
-## Blog Posts (Existing — keep as-is, restyle only)
+## Blog Posts (Existing: keep as-is, restyle only)
 
-1. "Does My Small Business Need DevOps?" — June 15, 2022, Loren Anderson
-2. "Keeping Your Git Repo Clean" — June 8, 2022, Loren Anderson
-3. "Saving Money with Software Contractors" — Nov 21, 2022 (password protected)
-4. "Hiring Software Contractors: 4 Things You May Not Know" — Dec 5, 2022 (password protected)
+1. "Does My Small Business Need DevOps?", June 15, 2022, Loren Anderson
+2. "Keeping Your Git Repo Clean", June 8, 2022, Loren Anderson
+3. "Saving Money with Software Contractors", Nov 21, 2022 (password protected)
+4. "Hiring Software Contractors: 4 Things You May Not Know", Dec 5, 2022 (password protected)
 
 ---
 
 ## Meta / SEO
 
 **Title:** Innovise Technologies | Custom Software Development & Consulting
-**Description:** Innovise Technologies builds custom software solutions for businesses of all sizes. From full-stack development to DevOps and cloud infrastructure — we're the engineering partner that scales with you.
+**Description:** Innovise Technologies builds custom software solutions for businesses of all sizes. From full-stack development to DevOps and cloud infrastructure. We're the engineering partner that scales with you.
 **Keywords:** custom software development, software consulting, Seattle, system integration, DevOps, cloud infrastructure, staff augmentation, web development

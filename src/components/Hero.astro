@@ -2,11 +2,23 @@
 ---
 
 <section id="home" class="relative bg-brand-500 min-h-[90vh] flex items-center overflow-hidden">
+  <!-- Hero photo: extra height + scroll parallax (see script) -->
+  <div class="absolute inset-0 overflow-hidden" aria-hidden="true">
+    <div
+      id="hero-parallax-bg"
+      class="absolute left-0 w-full bg-cover bg-left bg-no-repeat will-change-transform -top-[12%] h-[124%]"
+      style="background-image: url('/images/hero-bg.png');"
+    ></div>
+  </div>
+
+  <!-- Brand tint: strong at top, fades to fully transparent toward the bottom -->
+  <div
+    class="absolute inset-0 bg-gradient-to-b from-brand-500/95 via-brand-500/45 to-transparent"
+    aria-hidden="true"
+  ></div>
+
   <!-- Subtle pattern overlay -->
   <div class="absolute inset-0 opacity-[0.04]" style="background-image: radial-gradient(circle at 1px 1px, white 1px, transparent 0); background-size: 40px 40px;"></div>
-
-  <!-- Gradient overlay at bottom -->
-  <div class="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-brand-700/30 to-transparent"></div>
 
   <div class="relative max-w-[1200px] mx-auto px-6 lg:px-16 py-32 w-full">
     <div class="max-w-3xl">
@@ -14,7 +26,7 @@
         Custom Software Consulting
       </p>
       <h1 class="font-heading text-4xl sm:text-5xl lg:text-[65px] font-bold text-white leading-[1.1] mb-8 animate-on-scroll">
-        Software that fits your business — not the other way around.
+        Software that fits your business, not the other way around.
       </h1>
       <p class="text-lg sm:text-xl text-white/75 leading-relaxed max-w-2xl mb-10 animate-on-scroll">
         We design, build, and maintain custom software solutions tailored to how your business actually works. From startups to Fortune 50, Innovise is the development partner that scales with you.
@@ -39,3 +51,32 @@
     </div>
   </div>
 </section>
+
+<script>
+  function initHeroParallax() {
+    const bg = document.getElementById('hero-parallax-bg');
+    if (!bg) return;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    const rate = 0.32;
+    let ticking = false;
+
+    function update() {
+      const y = window.scrollY * rate;
+      bg.style.transform = `translate3d(0, ${y}px, 0)`;
+      ticking = false;
+    }
+
+    function onScroll() {
+      if (!ticking) {
+        requestAnimationFrame(update);
+        ticking = true;
+      }
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    update();
+  }
+
+  initHeroParallax();
+</script>

@@ -1,18 +1,19 @@
 @import "tailwindcss";
 
 @theme {
-  --color-brand-50: #e4e9e8;
-  --color-brand-100: #afbeb9;
-  --color-brand-200: #7a938b;
-  --color-brand-300: #44685c;
-  --color-brand-400: #1a6b4a;
-  --color-brand-500: #0f3d2e;
-  --color-brand-600: #0c3125;
-  --color-brand-700: #09251c;
+  /* Logo coral #F47C64 = brand-400; darker steps for solid fills & WCAG with white text */
+  --color-brand-50: #fdf6f4;
+  --color-brand-100: #fbe9e5;
+  --color-brand-200: #f3cdc3;
+  --color-brand-300: #e5a08c;
+  --color-brand-400: #f47c64;
+  --color-brand-500: #c24a36;
+  --color-brand-600: #a63d2c;
+  --color-brand-700: #8a3325;
 
-  --color-surface-page: #f7f5f0;
+  --color-surface-page: #faf7f5;
   --color-surface-card: #ffffff;
-  --color-surface-inset: #f0ece3;
+  --color-surface-inset: #f1eae7;
   --color-surface-inverse: #111111;
 
   --color-text-primary: #161616;
@@ -85,8 +86,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::selection {
-  background-color: #0f3d2e;
-  color: #f7f5f0;
+  background-color: var(--color-brand-500);
+  color: #faf7f5;
 }
 
 @media (prefers-reduced-motion: reduce) {
