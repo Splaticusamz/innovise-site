@@ -1,0 +1,7 @@
+# Rename this file to .extensions.local
+# List your personal extensions here, one per line.
+# This new file is ignored by git.
+# Example:
+shardulm94.trailing-spaces
+mhutchie.git-graph
+eamodio.gitlens
